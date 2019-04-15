@@ -158,7 +158,7 @@ public class HtmlParser {
 
     });
       try {
-          FileWriter fileWriter = new FileWriter("/Users/harrysandhu/Desktop/index_js2.html");
+          FileWriter fileWriter = new FileWriter("<filepath.......>");
           fileWriter.write("<!DOCTYPE html>\n" +
                   "<html>\n" +
                   "<head>\n" +
